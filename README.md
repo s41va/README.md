@@ -1,2 +1,2 @@
 # README.md
-Se trata de mi CV 
+Se trata del CV de Salva  
